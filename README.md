@@ -8,7 +8,7 @@ Project Overview
 
 I worked on this project by following the Codebasics PowerBi Course, Link to the course is here
 
- [Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiMWQ4ZDkxMWEtOTkwYS00ZDlkLTk2YjQtZTA3ODk0ZjBjZTlmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection921103ef25757e558ff6)
+ [Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiMWQ4ZDkxMWEtOTkwYS00ZDlkLTk2YjQtZTA3ODk0ZjBjZTlmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
  
 **Technical Tools For project work used as below:**
 
